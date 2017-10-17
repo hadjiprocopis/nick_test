@@ -32,7 +32,7 @@ e.g.
 doc/index.html
 
 Compilation:
-in this directory,
+in top directory (where this README file resides):
 
 ant clean
 
@@ -40,6 +40,9 @@ ant compile
 
 ant run
 
+or using the traditional way
+
+ant compile && java -classpath build/classes Harness
 
 Andreas Hadjiprocopis
 (andreashad2@gmail.com)
