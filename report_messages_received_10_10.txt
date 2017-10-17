@@ -1,0 +1,2 @@
+report_total_sales_on_each_product_type() on 18/10/2017 00:45:58
+----- end of report ------

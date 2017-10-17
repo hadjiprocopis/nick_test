@@ -1,0 +1,15 @@
+report_on_adjustments_per_sales_type() on 18/10/2017 00:45:59
+product type: 0
+	Adjustment: adjustment_type: add, product_type: Product: 0, value: 41.0
+	Adjustment: adjustment_type: subtract, product_type: Product: 0, value: 385.0
+	Adjustment: adjustment_type: subtract, product_type: Product: 0, value: 782.0
+	Adjustment: adjustment_type: add, product_type: Product: 0, value: 219.0
+	Adjustment: adjustment_type: subtract, product_type: Product: 0, value: 392.0
+	Adjustment: adjustment_type: add, product_type: Product: 0, value: 618.0
+product type: 1
+	Adjustment: adjustment_type: subtract, product_type: Product: 1, value: 66.0
+	Adjustment: adjustment_type: add, product_type: Product: 1, value: 578.0
+product type: 2
+	Adjustment: adjustment_type: multiply, product_type: Product: 2, value: 39.0
+	Adjustment: adjustment_type: add, product_type: Product: 2, value: 458.0
+--- end of report ----

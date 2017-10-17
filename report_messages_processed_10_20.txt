@@ -1,0 +1,6 @@
+report_total_sales_on_each_product_type() on 18/10/2017 00:45:58
+Product 0 has total value of 3335.0
+Product 1 has total value of 4149.0
+Product 2 has total value of 170086.0
+Product 3 has total value of 12331.0
+----- end of report ------
