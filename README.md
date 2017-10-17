@@ -30,8 +30,8 @@ arriving in the Queue OR reporting on every 10th message
 processed by the Processor. Messages arrive in the Queue
 much faster than being processed, therefore the first
 reports may be empty. This is why there are two kinds
-of reports, the 'report_messages_received_*' and the
-'report_messages_processed_*'.
+of reports, the 'report_messages_received_\*' and the
+'report_messages_processed_\*'.
 
 Documentation:
 in doc directory
