@@ -35,7 +35,9 @@ Compilation:
 in this directory,
 
 ant clean
+
 ant compile
+
 ant run
 
 
