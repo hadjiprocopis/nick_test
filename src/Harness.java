@@ -48,7 +48,9 @@ public class Harness {
 				   and so the reporting on processing stats when 10 messages HAVE ARRIVED
 				   yields an empty report.
 				*/
-				Thread.sleep(15+RNG.intValue(10));
+				// by ommission nextInt() was intValue()
+				// and it would not compile
+				Thread.sleep(15+RNG.nextInt(10));
 			} catch(InterruptedException ie){ ie.printStackTrace(); }
 			System.out.println("random message added to queue: "+a_message);
 			// and send it to the queue of the MessageProcessor
